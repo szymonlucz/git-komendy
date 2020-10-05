@@ -1,2 +1,2 @@
 
-merge or rebase?
+merge or rebase? Why rebase?
